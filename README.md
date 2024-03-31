@@ -20,5 +20,5 @@ From the plugin website:
 
 - **ratings-decade-sorter** Will sort all the ratings on the current page according to their decade. 
 ## New Features & Bugs
-Suggestions for new features and bug reports are very appreciated! Please post them in the Issues tab. You don't have to have a knowledge of a programming in order to create a Github account, though you're very welcome to contribute to the code and improve the tools anyway you can.
+Suggestions for new features and bug reports are very appreciated! Please post them in the Issues tab. You don't have to have a knowledge of a programming in order to create a Github account, though you're very welcome to contribute to the code and improve the tools anyway you can. I am still fairly new to software development so there is definitely a lot that can be improved upon.
 
