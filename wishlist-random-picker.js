@@ -1,4 +1,4 @@
-//https://github.com/desmondbergen/rateyourmusic-tools
+//https://github.com/desmondberg/rateyourmusic-tools
 
 // ==UserScript==
 // @name         RYM tools - wishlist-random-picker
